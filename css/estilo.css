@@ -52,6 +52,9 @@ a:hover {
 }
 
 /* Links ativos */
+a:active {
+	color: #535353;
+}
 
 /*  Classes */
 .verde {
